@@ -4,4 +4,6 @@ body{
 
 .list{
     font-weight: bold;
+    text-align: center;
+    position: absolute;
 }
